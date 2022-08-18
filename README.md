@@ -18,6 +18,11 @@
       <h2 id="prospect"># Prospect</h2>
       <p> Future prospect or development of this project are: I would like to style it a little bit better and make it easier on the eyes.</p>
       <h2 id="screeenshot"># Screenshot or Video</h2>
+      
+
+https://user-images.githubusercontent.com/85922363/185298534-b4ad7fdb-50fd-4320-b517-9baa4a9dd9c9.mp4
+
+
       <h2 id="git"># GitHub Pages</h2>
       <a href=https://github.com/QNguyen-hub/TeamGenerator>View the GitHub Pages</a>
       <h2># GitHub Repository</h2>
