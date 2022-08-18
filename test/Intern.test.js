@@ -2,13 +2,13 @@ const Intern = require("../lib/Intern");
 
 describe("Intern class", () => {
   describe("Initialization", () => {
-    it("should take in an id, name, email", () => {
-      const manager = new Manager(1, "Danny", "danny@test.com", 24);
+    it("should take in an id, name, email, school", () => {
+      const intern = new Intern(1, "Q", "Q@gmail.com", "DU");
 
-      expect(manager.id).toEqual(1);
-      expect(manager.name).toEqual("Danny");
-      expect(manager.email).toEqual("danny@test.com");
-      expect(manager.officeNumber).toEqual(24);
+      expect(intern.id).toEqual(1);
+      expect(intern.name).toEqual("Q");
+      expect(intern.email).toEqual("Q@gmail.com");
+      expect(intern.school).toEqual(DU);
     });
   });
 });
